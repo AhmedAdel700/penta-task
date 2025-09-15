@@ -1,0 +1,18 @@
+{
+  "name": "penta-b",
+  "version": "1.0.0",
+  "main": "rover.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "mars",
+    "rover"
+  ],
+  "author": "Ahmed Adel",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "29.7.0"
+  }
+}
